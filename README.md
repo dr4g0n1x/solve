@@ -5,3 +5,5 @@
 </div>
 
 <img src="https://github.com/mouhsineAf/mouhsineAf/blob/main/dido.gif">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dr4g0n1x&theme=blueberry)
